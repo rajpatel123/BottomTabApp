@@ -4,4 +4,11 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="title_account">Account</string>
+    <string name="detail">Detail</string>
+    <string name="delete">Delete</string>
+    <string name="idTv">Id</string>
+    <string name="nameTv">Name</string>
+    <string name="emailTv">Email</string>
+    <string name="phoneTv">Phone</string>
+    <string name="addressTv">Address</string>
 </resources>
